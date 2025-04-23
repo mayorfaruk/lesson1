@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Catamaran:wght@100..900&display=swap');
+
+
+.container{
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;    
+}
+
+.header{
+    font-family:"Bebas Neue", Times, serif;
+    font-size: 75px;
+    font-weight: bold;
+    font-style: italic;
+    text-align:center;
+    text-transform: capitalize;
+    letter-spacing: 40px;
+    word-spacing: 50px;
+}
+
+.content{
+    font-family: Catamaran,'Courier New', Courier, monospace;
+    line-height: 25px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    font-size: 25px;
+}

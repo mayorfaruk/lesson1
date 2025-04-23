@@ -1,0 +1,24 @@
+
+.container{
+    width: 60%;
+    height: 400px;
+    border: 1px solid red;
+    margin: auto;
+}
+
+.hex{
+    height: 100px;
+    background-color: #1964b9;
+}
+
+.rgb{
+    height: 100px;
+    margin-top: 20px;
+    background-color: rgb(20, 250, 40);
+}
+
+.rgba{
+    height: 100px;
+    margin-top: 30px;
+    background-color: rgba(250, 10, 0, 0.9);
+}
