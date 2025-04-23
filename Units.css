@@ -1,0 +1,23 @@
+html{
+    font-size: 76px;
+}
+
+div{
+    font-size: 16px;
+}
+
+p{
+    font-size: 2em;
+}
+
+.tools{
+height: 70px;
+background-color: red;
+width: 80%;
+}
+
+.mini-tool{
+    height: 50px;
+    background-color: black;
+    width: 60%;
+}

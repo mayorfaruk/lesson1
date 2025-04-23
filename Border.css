@@ -38,3 +38,15 @@
     border-style: groove;
     border-radius: 20px;
 }
+
+.last-box{
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    margin-left: 20px;
+    margin-top: 50px;
+    border-left: 5px solid red;
+    border-top: 5px dotted green;
+    border-right: 10px groove pink;
+    border-bottom: 10px double black;
+}
